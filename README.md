@@ -41,5 +41,7 @@ The corresponding LED blinks 10 times to indicate the cyclist’s intention to t
 
 If you speak the "right" command, the right LED starts blinking, and if you immediately change the command by speaking “left”, the left LEDs begin blinking right away stopping the earlier command. This is to ensure that if by mistake wrong direction was specified by the user, it can be overridden to indicate the correct one.
 
+https://github.com/architjain11/Voice-Activated-Cycle-Indicator-Using-Raspberry-Pi-3/assets/63463358/0b1bf32c-d635-443f-9406-495c9ce5ed11
+
 ## Conclusion
 In conclusion, the voice-activated cycle indicator lights project is a simple and effective solution to improve cyclist safety on the road. The system's voice-activated commands make it easy for cyclists to use, and the LEDs provide excellent visibility to other road users. The project's potential to enhance road safety and reduce cycling accidents makes it a valuable addition to any cyclist's gear.
